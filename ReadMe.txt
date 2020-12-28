@@ -1,4 +1,13 @@
-Replcation File for: Presentation of Advance method
+Replcation File for: internet use and satsifcation of local government 
+
+-------note---------
+**stata version does not include did analysis**
+**a minor problem was found in version 202011, for better replication place use version 202012**
+**version 202011 has only stata file**
+**The writing sample only use panel 2012,2014, and 2016. Version 202012 include panel 2010, but the result does not change** 
+
+--------------------
+
 
 **place set the working dircetory to the directory where the data and code is located**
 
