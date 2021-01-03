@@ -5,7 +5,8 @@ Replcation File for: internet use and satsifcation of local government
 **a minor problem was found in version 202011, for better replication place use version 202012**
 **version 202011 has only stata file**
 **The writing sample only use panel 2012,2014, and 2016. Version 202012 include panel 2010, but the result does not change** 
-**The original data is too big to store in githug. You can download them from http://www.isss.pku.edu.cn/cfps/index.htm. This filed include the data used in my research and a do filed describe how to create the used data from original data: data-creation.do. **
+**The original data is too big to store in githug. You can download them from http://www.isss.pku.edu.cn/cfps/index.htm.
+This filed includes the data used in my research and a do filed describe how to create the used data from original data: data-creation.do. **
 --------------------
 
 
